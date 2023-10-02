@@ -1,0 +1,40 @@
+body{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: center;
+}
+table {
+    border-collapse: collapse;
+    border: 1px solid #7f7f7f;
+}
+
+table tr,
+td,
+th {
+    border: 1px solid #7f7f7f;
+}
+
+table td,
+th {
+    padding: 10px;
+}
+
+table th {
+    text-transform: uppercase;
+}
+
+img{
+    width: 50px;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+}
+.header {
+    font-family: Georgia;
+}
+
+
+
+ 
