@@ -11,6 +11,7 @@ The result of this project is a web page displaying three different tables with 
 Overall, this project is valuable for displaying and organizing data in table format on a web page with the flexibility to customize their appearance and content. It can be used for various purposes, such as showcasing product catalogs, company information, or any other tabular data.
 
 ===========================================
+
 українською мовою
 
 Опис проекту: організації даних у вигляді таблиць на веб-сторінці.
