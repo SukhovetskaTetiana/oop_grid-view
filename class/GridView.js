@@ -82,13 +82,13 @@ class GridView {
 
   /**
    * Отрисовывает заголовок таблицы, если заголовок задан.
-   * @returns {HTMLElement|null} - Возвращает созданный элемент заголовка (`<h3>`) или `null`, если заголовок не задан.
+   * @returns {HTMLElement|null} - Возвращает созданный элемент заголовка (`<caption>`) или `null`, если заголовок не задан.
    */
 
   renderHeader() {
     // show header
     if (this._header) {
-      const header = document.createElement("h3");
+      const header = document.createElement("caption");
       header.textContent = this._header;
       this._headerClass.forEach((cssClass) => {
         header.classList.add(cssClass);
