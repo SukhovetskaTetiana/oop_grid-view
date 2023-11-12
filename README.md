@@ -1,6 +1,4 @@
-in English
-
-Project Description: Organizing Data in Tables on a Web Page.
+## Project Description: Organizing Data in Tables on a Web Page.
 
 This project is a small web application that displays and organizes data in the form of tables on a web page. The main goal of the project is to present information about products and companies while providing users with the ability to customize the display of this information using various attributes.
 
@@ -10,11 +8,7 @@ The result of this project is a web page displaying three different tables with 
 
 Overall, this project is valuable for displaying and organizing data in table format on a web page with the flexibility to customize their appearance and content. It can be used for various purposes, such as showcasing product catalogs, company information, or any other tabular data.
 
-===========================================
-
-українською мовою
-
-Опис проекту: організації даних у вигляді таблиць на веб-сторінці.
+## Опис проекту: організації даних у вигляді таблиць на веб-сторінці.
 
 Цей проект є невеликим веб-додатком, який відображає та організовує дані у вигляді таблиць на веб-сторінці. Головною метою проекту є відображення інформації про товари та компанії, а також надання можливості користувачеві налаштовувати відображення цієї інформації за допомогою різних атрибутів.
 
